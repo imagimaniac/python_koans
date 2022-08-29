@@ -1,6 +1,5 @@
-## What do you wish to accomplish this semester in Data Mining?
-### Objectives: 
+# What do you wish to accomplish this semester in Data Mining?
+## My Semester Goals: 
 * upgrade *python* skills
-* Data Mining for unsupervised data 
-    * A great deal of data science work **Natural Language Processing* now a days.
-* Data Mining has vast applications. Try to learn ***most of them***
+* Data Mining for unsupervised and supervised data 
+* Data Mining has vast applications like Financial ***Data Analysis, Retail Industry, Biological Data Analysis and many more*** .
